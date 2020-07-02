@@ -1,9 +1,9 @@
+venv/
 .DS_Store
 .venv
 .flaskenv
 *.pyc
 *.pyo
-venv/
 venv*
 dist/
 build/
